@@ -1,0 +1,6 @@
+[submodule "a1-front"]
+	path = a1-front
+	url = git@github.com:clh97/a1-front.git
+[submodule "a2-back"]
+	path = a2-back
+	url = git@github.com:clh97/a2-back.git
