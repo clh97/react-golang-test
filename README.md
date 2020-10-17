@@ -11,4 +11,4 @@ Cloning: `git clone --recursive https://github.com/clh97/react-golang-test.git`
 
 # A2-Back
 * Example query for /graphql endpoint can be found on a2-back/README.md
-* A2-Back runs with Compile-Daemon for golang, so its expected to recompile after each files
+* A2-Back runs with Compile-Daemon for golang, so its expected to recompile after file changes
