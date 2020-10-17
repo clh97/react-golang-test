@@ -1,6 +1,6 @@
 # A1-Front and A2-Back
 
-Cloning: `git clone --recursive https://github.com/clh97/smart-mei.git`
+Cloning: `git clone --recursive https://github.com/clh97/react-golang-test.git`
 
 * (WIP) A1-Front
 * A2-Back is a golang/graphql application that serves as intermediary service to `viacep.com.br`
